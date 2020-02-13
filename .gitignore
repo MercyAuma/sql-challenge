@@ -1,5 +1,5 @@
 #Api and google keys
-config1.py
+
 
 
 # Byte-compiled / optimized / DLL files
@@ -104,7 +104,7 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+config2.py
 # Environments
 .env
 .venv
