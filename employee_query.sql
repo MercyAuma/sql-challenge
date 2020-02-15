@@ -105,12 +105,7 @@ from public.employees
 group by employees.last_name
 order by count(*) desc
 
-select count(*) from public.employees;
---300024
-select count(*) from public.dept_emp;
---331603
-select count(*) from public."Dept_manager";
---24
+
 
 
 
